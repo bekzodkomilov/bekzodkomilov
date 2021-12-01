@@ -37,7 +37,7 @@
 <hr>
 
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bekzodkomilov&show_icons=true&locale=en&layout=compact" alt="bekzodkomilov" /></p>
-<p><img align="right"src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif" width="350" height="350" </img></p>
+<p><img align="right"src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif" width="300" height="300" </img></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=bekzodkomilov&show_icons=true&locale=en" alt="bekzodkomilov" /></br></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bekzodkomilov&" alt="bekzodkomilov" /></br></p>

@@ -1,8 +1,8 @@
 <p align="center" ><img align="center"src="https://trynetsolutions.com/TS/software.gif" width="550" height="350">
 
-<h1 align="center"> Hi 👋, I'm Bekzod</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bekzod;I’m+currently+working+on+something+cool;I’m+currently+learning+everything;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
 
-<h3 align="center">.net developer from Uzbekistan</h3>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=.Net+Developer+from+Uzbekistan;)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bekzodkomilov&label=Profile%20views&color=0e75b6&style=flat" alt="bekzodkomilov" /> </p>
 
@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/bekzodkomilov" target="blank"><img src="https://img.shields.io/twitter/follow/bekzodkomilov?logo=twitter&style=for-the-badge" alt="bekzodkomilov" /></a> </p>
 
 
-- 🔭 I’m currently working on [IlmHub](http://oj.ilmhub.uz/)
+- 🔭 I’m currently working on [IlmHub](http://http://ilmhub.uz/)
 
   <p><img align="right"src="https://i.pinimg.com/originals/68/45/e3/6845e3e3b96d3ccb85dcbb9880351074.gif" width="250" height="250" </img></p>
 - 🌱 I’m currently learning **.net**
